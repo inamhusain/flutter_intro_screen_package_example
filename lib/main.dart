@@ -1,7 +1,7 @@
 // ignore_for_file: use_key_in_widget_constructors
 
 import 'package:flutter/material.dart';
-import 'package:flutter_intro_screen/flutter_intro_screen.dart';
+import 'package:flutter_intro_screen_plus/flutter_intro_screen_plus.dart';
 
 void main() {
   runApp(const MyApp());

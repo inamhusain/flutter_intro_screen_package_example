@@ -62,14 +62,12 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_intro_screen:
+  flutter_intro_screen_plus:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: d07e038248b2571ce7aa71c0c1d976a2a17c590c
-      url: "https://github.com/inamhusain/flutter_intro_screen.git"
-    source: git
+      name: flutter_intro_screen_plus
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.0.1"
   flutter_lints:
     dependency: "direct dev"
